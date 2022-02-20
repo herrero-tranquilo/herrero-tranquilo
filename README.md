@@ -4,6 +4,6 @@
  
 </div>
 <div align=center>
-<img src="https://img.shields.io/badge/Javascript_#F7DF1E?style=flat-square&logo=Javascript&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=F7DF1E&labelColor=ffffff"/></a>&nbsp 
 </div>
 
