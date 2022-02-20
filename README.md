@@ -5,7 +5,10 @@
 </div>
 <div align=center>
 <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=F7DF1E&labelColor=ffffff"/></a>&nbsp 
-<img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=Typescript&logoColor=3178C6&labelColor=ffffff"/></a>&nbsp 
-
+<img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=Typescript&logoColor=3178C6&labelColor=ffffff"/></a>&nbsp
 </div>
 
+</div>
+<div align=center>
+<img src="https://img.shields.io/badge/React.JS-61DAFB?style=for-the-badge&logo=React&logoColor=61DAFB&labelColor=ffffff"/></a>&nbsp 
+</div>
