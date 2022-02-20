@@ -12,4 +12,5 @@
 <div align=center>
 <img src="https://img.shields.io/badge/React.JS-61DAFB?style=for-the-badge&logo=React&logoColor=61DAFB&labelColor=ffffff"/></a>&nbsp 
 <img src="https://img.shields.io/badge/Vue.JS-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=4FC08D&labelColor=ffffff"/></a>&nbsp 
+<img src="https://img.shields.io/badge/Nest.JS-E0234E?style=for-the-badge&logo=Nestjs&logoColor=E0234E&labelColor=ffffff"/></a>&nbsp 
 </div>
