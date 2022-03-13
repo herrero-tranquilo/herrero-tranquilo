@@ -2,6 +2,7 @@
  
  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fk0603156&count_bg=%23000000&title_bg=%23000000&icon=mediafire.svg&icon_color=%23FF0000&title=HITS&edge_flat=false)](https://hits.seeyoufarm.com)
  
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k0603156)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 <div align=center>
 <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=F7DF1E&labelColor=ffffff"/></a>&nbsp 
