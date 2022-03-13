@@ -1,4 +1,4 @@
-<div align=center>
+<div>
  
  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fk0603156&count_bg=%23000000&title_bg=%23000000&icon=mediafire.svg&icon_color=%23FF0000&title=HITS&edge_flat=false)](https://hits.seeyoufarm.com)
  
