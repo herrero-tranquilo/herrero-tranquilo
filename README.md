@@ -6,10 +6,3 @@
  
 </div>
 
-<div>
- <img src="https://img.shields.io/badge/React.JS-61DAFB?style=flat-square&logo=React&logoColor=61DAFB&labelColor=ffffff"/></a>&nbsp 
- <img src="https://img.shields.io/badge/Next.JS-000000?style=flat-square&logo=Next.js&logoColor=000000&labelColor=ffffff"/></a>&nbsp 
- <img src="https://img.shields.io/badge/Vue.JS-4FC08D?style=flat-square&logo=Vue.js&logoColor=4FC08D&labelColor=ffffff"/></a>&nbsp 
- <img src="https://img.shields.io/badge/Nuxt.JS-00DC82?style=flat-square&logo=Nuxt.js&logoColor=00DC82&labelColor=ffffff"/></a>&nbsp 
- <img src="https://img.shields.io/badge/Nest.JS-E0234E?style=flat-square&logo=Nestjs&logoColor=E0234E&labelColor=ffffff"/></a>&nbsp 
-</div>
