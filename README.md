@@ -13,11 +13,3 @@
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
 
 ---
-
-### 📊 Stats
-
-<div>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=herrero-tranquilo&layout=compact&hide=css,html&theme=default)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
