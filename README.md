@@ -18,7 +18,6 @@
 
 | Project | Description |
 |---|---|
-| [ULTRON](https://github.com/herrero-tranquilo/ULTRON) | AI multi-persona Slack team — each bot has a unique role and memory |
 | [GeoWatch](https://github.com/herrero-tranquilo/GeoWatch) | Geopolitical risk intelligence dashboard — 14-layer data integration |
 | [invest-iq](https://github.com/herrero-tranquilo/invest-iq) | Market data collection & analysis with AWS Lambda + NestJS |
 
