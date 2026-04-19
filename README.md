@@ -16,12 +16,3 @@
 ### 🗂 Projects
 
 #### [HT.SourceDocs](https://opensource-docs.vercel.app/)
-오픈소스 라이브러리 소스코드를 버전별로 읽고 한국어 문서와 함께 탐색하는 웹앱.
-
-| 항목 | 내용 |
-|------|------|
-| 라이브러리 | React, Vue |
-| 기술 스택 | Next.js · Shiki · ReactFlow · Vercel |
-| 특징 | 버전별 소스 스냅샷 · 한국어 해석 · 의존성 그래프 |
-
----
