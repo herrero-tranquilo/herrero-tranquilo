@@ -14,5 +14,5 @@
 ### 🗂 Projects
 
 #### [HT.SourceDocs](https://opensource-docs.vercel.app/)
-#### [Mosaic](mosaic.herrero-tranquilo.click/)
+#### [Mosaic](https://mosaic.herrero-tranquilo.click/)
 
