@@ -14,3 +14,5 @@
 ### 🗂 Projects
 
 #### [HT.SourceDocs](https://opensource-docs.vercel.app/)
+#### [Mosaic](https://landing-sepia-alpha-11.vercel.app/)
+
