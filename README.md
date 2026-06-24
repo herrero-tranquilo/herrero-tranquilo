@@ -13,5 +13,6 @@
 
 ### 🗂 Projects
 
+#### [celestia](https://herrero-tranquilo.github.io/celestia/)
 #### [HT.SourceDocs](https://opensource-docs.vercel.app/)
 
