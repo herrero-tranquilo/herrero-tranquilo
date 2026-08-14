@@ -13,7 +13,7 @@
 
 ### 🗂 Projects
 
-#### [otabi](https://o-tabi.com/)
+#### [otabi. オ-旅](https://o-tabi.com/)
 #### [celestia](https://herrero-tranquilo.github.io/celestia/)
 #### [HT.SourceDocs](https://opensource-docs.vercel.app/)
 
