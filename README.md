@@ -1,4 +1,3 @@
-# Hi, I'm Yongkuk 👋
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -11,9 +10,9 @@
 
 ---
 
-### 🗂 Projects
+## 🗂 Projects
 
-#### [otabi. オ-旅](https://o-tabi.com/)
-#### [celestia](https://herrero-tranquilo.github.io/celestia/)
-#### [HT.SourceDocs](https://opensource-docs.vercel.app/)
+### [otabi. オ-旅](https://o-tabi.com/)
+### [celestia](https://herrero-tranquilo.github.io/celestia/)
+### [HT.SourceDocs](https://opensource-docs.vercel.app/)
 
