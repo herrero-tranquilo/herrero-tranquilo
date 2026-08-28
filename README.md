@@ -10,7 +10,7 @@
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
 ---
-
+![otabi. オ-旅](https://img.shields.io/badge/otabi-3178C6?style=flat-square&logo=https://o-tabi.com/icon.svg&logoColor=white)
 ## 🗂 Projects
 
 ### [otabi. オ-旅](https://o-tabi.com/)
