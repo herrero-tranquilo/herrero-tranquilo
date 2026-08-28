@@ -9,11 +9,12 @@
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
----
-![otabi. オ-旅](https://img.shields.io/badge/otabi-3178C6?style=flat-square&logo=https://o-tabi.com/icon.svg&logoColor=white)
-## 🗂 Projects
 
-### [otabi. オ-旅](https://o-tabi.com/)
+
+<h3><img src="https://o-tabi.com/icon.svg" width="24" align="middle" alt=""> <sub>여행 아카이브 · Otabi · オ-旅</sub> <sub><a href="https://o-tabi.com">o-tabi.com</a></sub></h3>
+
+
+
+##
 ### [celestia](https://herrero-tranquilo.github.io/celestia/)
 ### [HT.SourceDocs](https://opensource-docs.vercel.app/)
-
