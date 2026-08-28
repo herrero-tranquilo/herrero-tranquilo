@@ -11,7 +11,7 @@
 
 
 
-<h3><img src="https://o-tabi.com/icon.svg" width="24" align="middle" alt=""> <sub>여행 아카이브 · Otabi · オ-旅</sub> <sub><a href="https://o-tabi.com">o-tabi.com</a></sub></h3>
+<h3><img src="https://o-tabi.com/icon.svg" width="24" align="middle" alt=""> <sub>여행 아카이브 · Otabi · オ-旅</sub> <sub><a href="https://o-tabi.com">https://o-tabi.com</a></sub></h3>
 
 
 
